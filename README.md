@@ -1,4 +1,4 @@
-# Driver Monitoring Service
+# Safe Driver
 
 The **Driver Monitoring Service** is a Node.js-based backend application designed to monitor driving events and generate alerts for unsafe driving behavior. It's built using the Express.js framework and utilizes the node-cron library for scheduling rule evaluations.
 
